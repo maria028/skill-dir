@@ -1,0 +1,10 @@
+export default [{"label": "1托2", "value": "RRL2"},
+  {"label": "1托4", "value": "RRL4"},
+  {"label":"大机器人", "value": "RRM"},
+  {"label":"台式机器人", "value": "RRD"},
+  {"label":"售货机", "value": "SHJ"},
+  {"label":"电瓶车充电桩", "value": "CDB"},
+  {"label":"汽车充电桩", "value": "CDC"},
+  {"label":"门禁（人）", "value": "MJP"},
+  {"label":"车道闸", "value": "DZC"},
+  {"label":"健康小站", "value": "JKXZ"}]

@@ -1,0 +1,27 @@
+.m-head-bg {
+  background: #00C264 !important;
+  color: white;
+}
+
+.m-title {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000;
+  background-color: #F3F8F7;
+  -webkit-overflow-scrolling: touch;
+}
+
+.wrap /deep/ .vux-header {
+  background-color: #00C264;
+}
+
+

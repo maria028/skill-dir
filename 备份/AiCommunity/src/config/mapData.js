@@ -1,0 +1,34 @@
+export default [{
+  orgId: '3301',
+  map: 'img/map/3301.png'
+}, {
+  orgId: '330185',
+  map: 'img/map/临安.png'
+}, {
+  orgId: '330110',
+  map: 'img/map/余杭.png'
+}, {
+  orgId: '330106',
+  map: 'img/map/西湖.png'
+}, {
+  orgId: '3304',
+  map: 'img/map/嘉兴市.png'
+}, {
+  orgId: '330483',
+  map: 'img/map/桐乡市.png'
+}, {
+  orgId: '3305',
+  map: 'img/map/湖州.png'
+}, {
+  orgId: '330521',
+  map: 'img/map/德清.png'
+}, {
+  orgId: '3307',
+  map: 'img/map/金华市.png'
+}, {
+  orgId: '330703',
+  map: 'img/map/金东.png'
+}, {
+  orgId: '360302',
+  map: 'img/map/东大街地图.png'
+}]
